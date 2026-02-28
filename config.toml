@@ -1,9 +1,0 @@
-[server]
-headless = true
-port = 8501
-
-[theme]
-base = "dark"
-backgroundColor = "#050508"
-secondaryBackgroundColor = "#0f0c1a"
-textColor = "#e8e8f0"
